@@ -268,7 +268,7 @@ def super():
 		time.sleep(1)
 		login()
 	os.system('clear')
-	print logo1
+	print logo
 	print "\x1b[1;32;40m[1] \033[1;33;40m☞ Hack From Friend List"
 	print "\x1b[1;32;40m[2] \033[1;33;40m☞ Hack From Public ID"
 	print "\x1b[1;32;40m[3] \033[1;33;40m☞ Hack Bruteforce"
