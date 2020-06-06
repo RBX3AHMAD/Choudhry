@@ -144,7 +144,7 @@ def login():
 		menu() 
 	except (KeyError,IOError):
 		os.system('clear')
-		print logo1
+		print logo
 		
 		
 		print('          \033[1;97m[♪♪] \x1b[1;96mLogin With Fresh Account \033[1;97m[♪♪]' )
